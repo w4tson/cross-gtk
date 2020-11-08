@@ -15,7 +15,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: w4tson/cross-gtk
+  IMAGE_NAME: cross-gtk
 
 jobs:
   # Run tests.
